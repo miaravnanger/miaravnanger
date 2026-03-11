@@ -4,7 +4,7 @@
 - Interested in building modern web applications and backend systems
 - Currently exploring **cybersecurity**
 - Based in Norway
-  
+ <div align="center">
 ## Tech Stack
 
 ### Frontend
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
+</div>
 
 ##  GitHub Stats
 
