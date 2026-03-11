@@ -4,7 +4,6 @@
 - 💻 Interested in building modern web applications and backend systems
 - 🔐 Currently exploring **cybersecurity**
 - 🌍 Based in Norway
-- ✉️ Contact: mia_maroen@hotmail.com
   
 ## 🛠 Tech Stack
 
