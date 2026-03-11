@@ -45,3 +45,6 @@
   <img src="https://streak-stats.demolab.com?user=miaravnanger&theme=midnight-purple" height="200"/>
 </p>
 
+## Activity Graph
+
+[![Mia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miaravnanger&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
