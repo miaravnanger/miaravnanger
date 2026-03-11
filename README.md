@@ -1,31 +1,17 @@
-<table>
-<tr>
-<td width="50%">
+<h1 align="center">Hi 👋 I'm Mia</h1>
 
-# Mia Ravnanger Marøen
-
-- Junior full-stack developer currently studying at **Kodehode**
-- Interested in building modern web applications and backend systems
-- Currently exploring **cybersecurity**
-- Based in Norway
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaravnanger&layout=compact&theme=midnight-purple" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=miaravnanger&theme=midnight-purple" height="165"/>
-
-</td>
-</tr>
-</table> Based in Norway
+<p align="center">
+Junior full-stack developer currently studying at <b>Kodehode</b><br>
+Interested in building modern web applications and backend systems<br>
+Currently exploring <b>cybersecurity</b><br>
+Based in Norway
+</p>
 
 ## Tech Stack
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="70%">
 
 <h3>Frontend</h3>
 
