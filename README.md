@@ -13,5 +13,4 @@ I have a particular interest in cybersecurity and plan to start studying it late
 * ✉️  You can contact me at [mia\_maroen@hotmail.com](mailto:mia_maroen@hotmail.com)
 * 🧠  I'm currently learning Python 
 
-##Github stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=miaravnanger&theme=midnight-purple)](https://git.io/streak-stats)
