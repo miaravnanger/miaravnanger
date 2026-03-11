@@ -5,7 +5,7 @@
 - Currently exploring **cybersecurity**
 - Based in Norway
   
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p align="left">
