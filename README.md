@@ -32,7 +32,7 @@ Based in Norway
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="70%">
 
 <h3>Databases</h3>
 
