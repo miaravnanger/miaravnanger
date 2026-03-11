@@ -38,7 +38,6 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaravnanger&show_icons=true&theme=midnight-purple" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaravnanger&layout=compact&theme=midnight-purple" height="165"/>
 </p>
 
