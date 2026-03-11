@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mia</h1>
+<h1 align="left">Hi 👋 I'm Mia</h1>
 
 <p align="left">
 Junior full-stack developer currently studying at <b>Kodehode</b><br>
@@ -47,7 +47,7 @@ Based in Norway
 
 </td>
 </tr>
-</table>>
+</table>
 
 ## Activity Graph
 
