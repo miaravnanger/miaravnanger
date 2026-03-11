@@ -1,9 +1,9 @@
 # Hi 👋 I'm Mia
 
-- 🎓 Junior full-stack developer currently studying at **Kodehode**
-- 💻 Interested in building modern web applications and backend systems
-- 🔐 Currently exploring **cybersecurity**
-- 🌍 Based in Norway
+- Junior full-stack developer currently studying at **Kodehode**
+- Interested in building modern web applications and backend systems
+- Currently exploring **cybersecurity**
+- Based in Norway
   
 ## 🛠 Tech Stack
 
@@ -35,13 +35,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
 
-## 🔥 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaravnanger&layout=compact&theme=midnight-purple" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=miaravnanger&theme=midnight-purple" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=miaravnanger&theme=midnight-purple" height="200"/>
 </p>
 
