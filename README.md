@@ -2,7 +2,7 @@
 <tr>
 <td width="50%">
 
-# Hi 👋 I'm Mia
+# Hi, I'm Mia
 
 - Junior full-stack developer currently studying at **Kodehode**
 - Interested in building modern web applications and backend systems
