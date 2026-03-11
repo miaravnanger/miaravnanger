@@ -9,48 +9,37 @@ Based in Norway
 
 <h2 align="center">Tech Stack</h2>
 
-<table width="100%">
-<tr>
+<h3 align="center">Frontend</h3>
 
-<td align="center" width="50%">
-
-<h3>Frontend</h3>
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS"/>
+</p>
 
-<br><br>
+<h3 align="center">Backend</h3>
 
-<h3>Backend</h3>
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+</p>
 
-</td>
+<h3 align="center">Databases</h3>
 
-<td align="center" width="50%">
-
-<h3>Databases</h3>
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQLite"/>
+</p>
 
-<br><br>
+<h3 align="center">Tools</h3>
 
-<h3>Tools</h3>
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-
-</td>
-
-</tr>
-</table>
-
+</p>
 
 ## Activity Graph
 
