@@ -11,7 +11,7 @@ I have a particular interest in cybersecurity and plan to start studying it late
 * ✉️  You can contact me at [mia\_maroen@hotmail.com](mailto:mia_maroen@hotmail.com)
 * 🧠  I'm currently learning Python
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -22,6 +22,6 @@ I have a particular interest in cybersecurity and plan to start studying it late
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
-## 🔥 GitHub Stats
+##  GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miaravnanger&theme=midnight-purple)](https://git.io/streak-stats)
