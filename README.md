@@ -9,9 +9,7 @@ Based in Norway
 
 <h2 align="center">Tech Stack</h2>
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 
 <td align="center" width="50%">
@@ -53,7 +51,6 @@ Based in Norway
 </tr>
 </table>
 
-</div>
 
 ## Activity Graph
 
