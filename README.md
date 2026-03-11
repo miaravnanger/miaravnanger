@@ -1,12 +1,11 @@
-# Hi! 👋 I'm Mia
+# Hi 👋 I'm Mia
 
-Junior Fullstack Developer
---------------------------
-
-I’m a full-stack developer at the beginning of my career. I’m currently enrolled in a one-year full-time full-stack development program called Kodehode. So far, I’ve worked with JavaScript, Python, React, and Node/Express, databases, as well as design tools like Figma.
-
-I have a particular interest in cybersecurity and plan to start studying it later this fall.
-
+- 🎓 Junior full-stack developer currently studying at **Kodehode**
+- 💻 Interested in building modern web applications and backend systems
+- 🔐 Currently exploring **cybersecurity**
+- 🌍 Based in Norway
+- ✉️ Contact: mia_maroen@hotmail.com
+  
 ## 🛠 Tech Stack
 
 ### Frontend
