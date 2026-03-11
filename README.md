@@ -7,10 +7,6 @@ I’m a full-stack developer at the beginning of my career. I’m currently enro
 
 I have a particular interest in cybersecurity and plan to start studying it later this fall.
 
-* 🌍  I'm based in Norway
-* ✉️  You can contact me at [mia\_maroen@hotmail.com](mailto:mia_maroen@hotmail.com)
-* 🧠  I'm currently learning Python
-
 ## 🛠 Tech Stack
 
 ### Frontend
