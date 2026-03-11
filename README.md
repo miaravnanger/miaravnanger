@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋 I'm Mia</h1>
 
 <p align="left">
-Junior full-stack developer currently studying at <b>Kodehode</b><br>
-Interested in building modern web applications and backend systems<br>
-Currently exploring <b>cybersecurity</b><br>
-Based in Norway
+-Junior full-stack developer currently studying at <b>Kodehode</b><br>
+-Interested in building modern web applications and backend systems<br>
+-Currently exploring <b>cybersecurity</b><br>
+-Based in Norway
 </p>
 
 <h2 align="center">Tech Stack</h2>
