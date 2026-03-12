@@ -64,4 +64,4 @@ I'm a junior full-stack developer currently studying at Kodehode. I'm interested
 
 ## Activity Graph
 
-[![Mia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miaravnanger&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miaravnanger&theme=high-contrast&hide_border=true&line=00296b&point=001845)](https://github.com/ashutosh00710/github-readme-activity-graph)
