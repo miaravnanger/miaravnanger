@@ -3,7 +3,7 @@
 <p align="left">
 I'm a junior full-stack developer currently studying at Kodehode. I'm interested in building modern web applications and backend systems, and I'm currently exploring cybersecurity. Based in Norway </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <table width="100%">
 <tr>
