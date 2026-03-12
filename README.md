@@ -48,3 +48,7 @@ I'm a junior full-stack developer currently studying at Kodehode. I'm interested
 ## Activity Graph
 
 [![Mia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miaravnanger&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Github stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miaravnanger&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
