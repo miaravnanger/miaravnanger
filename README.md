@@ -1,4 +1,4 @@
-![Header](./github-header-banner5.png)
+![Header](./github-header-banner6.png)
 <p align="left">
 I'm a junior full-stack developer currently studying at Kodehode. I'm interested in building modern web applications and backend systems, and I'm currently exploring cybersecurity. Based in Norway. </p>
 
