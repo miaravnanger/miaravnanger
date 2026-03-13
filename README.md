@@ -50,13 +50,13 @@ I'm a junior full-stack developer currently studying at Kodehode. I'm interested
 <tr>
 <td align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaravnanger&layout=compact&theme=transparent&hide_border=true"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaravnanger&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://streak-stats.demolab.com?user=miaravnanger&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=miaravnanger&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -64,4 +64,4 @@ I'm a junior full-stack developer currently studying at Kodehode. I'm interested
 
 ## Activity Graph
 
-[![Mia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miaravnanger&theme=high-contrast&hide_border=true&line=00296b&point=001845)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miaravnanger&theme=tokyonight&hide_border=true&line=00296b&point=001845)](https://github.com/ashutosh00710/github-readme-activity-graph)
